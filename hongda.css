@@ -12,14 +12,15 @@ body {
 body {
   padding: 0;
   margin: 0;
-  /* font-family: "Open Sans", sans-serif;*/
-  font-family: "Pacifico", cursive
+  font-family: "Open Sans", sans-serif;
+  font-family: 
   color: #333333; /* dark, almost black, gray colour */
 }
-h1,
+h1 {
+  font-family: "Pacifico", cursive;
+}
 h2 {
-/*   font-family: "Nixie One", serif; */
-  font-family: "Pacifico", cursive
+  font-family: "Nixie One", serif;
   font-weight: 300; /* removes default bold styles */
   text-transform: uppercase;
   margin: 0; /* removes default space */

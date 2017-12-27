@@ -18,7 +18,8 @@ body {
 }
 h1,
 h2 {
-  font-family: "Nixie One", serif;
+/*   font-family: "Nixie One", serif; */
+  font-family: "Pacifico", cursive
   font-weight: 300; /* removes default bold styles */
   text-transform: uppercase;
   margin: 0; /* removes default space */

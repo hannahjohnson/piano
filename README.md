@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Hannah John's Homepage
 
 You can use the [editor on GitHub](https://github.com/hannahjohnson/piano/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

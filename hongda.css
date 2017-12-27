@@ -1,7 +1,6 @@
 /* ----------------------------------------------------
-  Created by Christina Truong for Ladies Learning Code
-  http://ladieslearningcode.com
-  http://christinatruong.com
+  Created by Hongda Shen, husband of an enthusiastic 
+pianist, Hannah Johnson.
 -------------------------------------------------------*/
 
 
@@ -65,7 +64,7 @@ nav a {
 /* HOME PAGE STYLES
 -----------------------------------------*/ 
 .home {
-  background: url(../images/background-6.jpg) no-repeat 50%;
+  background: url(../background-6.jpg) no-repeat 50%;
   background-size: cover;
 }
 
@@ -89,7 +88,7 @@ blockquote p {
 /* CONTACT STYLES
 -----------------------------------------*/
 .contact {
-  background: url(../images/background-8.jpg) no-repeat 50%;
+  background: url(../background-8.jpg) no-repeat 50%;
   background-size: cover;
 }
 .contact main {

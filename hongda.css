@@ -1,6 +1,5 @@
 /* ----------------------------------------------------
-  Created by Hongda Shen, husband of an enthusiastic 
-pianist, Hannah Johnson.
+  Created by Hongda Shen, husband of Hannah Johnson.
 -------------------------------------------------------*/
 
 
@@ -64,7 +63,7 @@ nav a {
 /* HOME PAGE STYLES
 -----------------------------------------*/ 
 .home {
-  background: url(../background-6.jpg) no-repeat 50%;
+  background: url(background-6.jpg) no-repeat 50%;
   background-size: cover;
 }
 
@@ -88,7 +87,7 @@ blockquote p {
 /* CONTACT STYLES
 -----------------------------------------*/
 .contact {
-  background: url(../background-8.jpg) no-repeat 50%;
+  background: url(background-8.jpg) no-repeat 50%;
   background-size: cover;
 }
 .contact main {

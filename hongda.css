@@ -91,7 +91,7 @@ blockquote p {
 /* CONTACT STYLES
 -----------------------------------------*/
 .contact {
-  background: url(piano_background.jpg) no-repeat 50%;
+  background: url(piano_background.jpg) no-repeat 100%;
   background-size: cover;
 }
 .contact main {

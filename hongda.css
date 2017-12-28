@@ -92,7 +92,7 @@ blockquote p {
 -----------------------------------------*/
 .contact {
   background: url(hannah.png) no-repeat 50%;
-  background-size: cover;
+  background-size: contain;
 }
 .contact main {
   background: rgba(255, 255, 255, 0.7);

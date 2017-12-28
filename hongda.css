@@ -67,7 +67,7 @@ nav a {
 /* HOME PAGE STYLES
 -----------------------------------------*/ 
 .home {
-  background: url(hannah.png) no-repeat 50%;
+  background: url(piano.jpg) no-repeat 50%;
   background-size: cover;
 }
 
@@ -91,7 +91,7 @@ blockquote p {
 /* CONTACT STYLES
 -----------------------------------------*/
 .contact {
-  background: url(Piano.jpg) no-repeat 50%;
+  background: url(hnh.png) no-repeat 50%;
   background-size: cover;
 }
 .contact main {

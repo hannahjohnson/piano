@@ -1,0 +1,178 @@
+/* ----------------------------------------------------
+  Created by Hongda Shen, husband of Hannah Johnson.
+-------------------------------------------------------*/
+
+
+/* GLOBAL STYLES
+-----------------------------------------*/
+html,
+body {
+  height: 100%;
+}
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  font-family: 
+  color: #333333; /* dark, almost black, gray colour */
+}
+h1 {
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  color: #eff9f8;
+}
+h2 {
+  font-family: "Nixie One", serif;
+  font-weight: 300; /* removes default bold styles */
+  text-transform: uppercase;
+  margin: 0; /* removes default space */
+}
+a {
+  color: #eff9f8;
+  text-decoration: none; /* removes default underline */
+}
+a:hover {
+  background: rgba(178, 255, 204, 0.3);
+}
+
+b {
+  color: #000000;
+  font-size: 40px
+
+}
+b:hover {
+  background: rgba(178, 255, 204, 0.3);
+}
+header,
+main,
+nav {
+  padding: 20px 30px;
+}
+main {
+  clear: both;
+}
+.highlight {
+  color: #bf6d50;
+}
+
+
+/* HEADER STYLES
+-----------------------------------------*/
+header h1 {
+  font-size: 48px;
+  margin-bottom: -5px;
+}
+header h2 {
+  font-size: 24px;
+}
+header {
+  float: left;
+}
+nav {
+  float: right;
+}
+nav a {
+  padding: 20px;
+}
+
+/* HOME PAGE STYLES
+-----------------------------------------*/ 
+.home {
+  background: url(carnegie.PNG) no-repeat 50%;
+  background-size: cover;
+}
+
+/* ABOUT STYLES
+-----------------------------------------*/
+.about {
+    background: rgb(180, 180, 180);
+    background-size: cover;
+}
+
+.profile-img {
+  float: left;
+  margin-right: 20px;
+  width: 30%;
+  margin-top: 20px;
+}
+
+
+/*  GALLERY STYLES
+-----------------------------------------*/
+.gallery {
+    background: rgb(180, 180, 180);
+    background-size: cover;
+}
+
+.gallery-img {
+  float: center;
+  margin-right: 20px;
+  width: 30%;
+  margin-top: 10px;
+}
+
+
+/* CONTACT STYLES
+-----------------------------------------*/
+.contact {
+  background: rgb(180, 180, 180);
+  background-size: cover;
+}
+.contact main {
+  background: rgba(255, 255, 255, 0.3);
+  padding-top: 150px;
+  padding-bottom: 150px;
+  color: #eff9f8;
+}
+.contact main h1 {
+  text-transform: none;
+}
+
+/* form styles */
+form {
+  width: 400px;
+}
+input,
+textarea {
+  border: 1px solid #BF6D50;
+  width: 400px;
+  margin-bottom: 10px;
+}
+input {
+  height: 20px;
+} 
+textarea {
+  height: 100px;
+}
+button {
+  background: #BF6D50;
+  border: none;
+  padding: 10px 40px;
+  font-size: 16px;
+}
+
+
+/* FOOTER STYLES
+-----------------------------------------*/
+/* Sticky Footer - http://css-tricks.com/snippets/css/sticky-footer */
+.page-wrap {
+  min-height: 100%;
+  margin-bottom: -55px; /* must be the same height as footer */
+}
+.page-wrap:after {
+  content: "";
+  display: block;
+}
+footer, 
+.page-wrap:after {
+  height: 55px; /* however tall you want the footer to be */
+}
+footer {
+  background: rgba(50, 50, 50, 0.5);
+  text-align: center;
+  color: #eff9f8;
+  padding: 1px;
+}
+
+
+
+

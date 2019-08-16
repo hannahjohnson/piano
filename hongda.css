@@ -99,7 +99,7 @@ nav a {
 /*  GALLERY STYLES
 -----------------------------------------*/
 .gallery {
-    background: url(piano_1.jpg) no-repeat;
+    background: url(piano_1.jpg) no-repeat 150%;
     background-size: cover;
 }
 

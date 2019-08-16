@@ -84,7 +84,7 @@ nav a {
 /* BIOGRAPHY STYLES
 -----------------------------------------*/
 .biography {
-    background: rgb(180, 180, 180);
+    background: url(piano_1.jpg) no-repeat;
     background-size: cover;
 }
 
@@ -99,7 +99,7 @@ nav a {
 /*  GALLERY STYLES
 -----------------------------------------*/
 .gallery {
-    background: url(piano_1.jpg) no-repeat 50%;
+    background: url(piano_1.jpg) no-repeat;
     background-size: cover;
 }
 
@@ -114,7 +114,7 @@ nav a {
 /* CONTACT STYLES
 -----------------------------------------*/
 .contact {
-  background: rgb(180, 180, 180);
+  background: url(piano_1.jpg) no-repeat;
   background-size: cover;
 }
 .contact main {

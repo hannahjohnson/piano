@@ -14,7 +14,7 @@ body {
   margin: 0;
   font-family: "Open Sans", sans-serif;
   font-family: 
-  color: #eff9f8; /* dark, almost black, gray colour */
+  color: #eff9f8; 
 }
 h1 {
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
@@ -93,6 +93,10 @@ nav a {
   margin-right: 20px;
   width: 30%;
   margin-top: 20px;
+}
+
+.biography p {
+  color: #eff9f8;
 }
 
 
